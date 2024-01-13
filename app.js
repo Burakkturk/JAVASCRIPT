@@ -32,5 +32,25 @@ console.log("APP JS RUNNING")
     console.log(isOpen, typeof isOpen)
 
     let language = "Java"
+    console.log(language, typeof language)
+    language = "Javascript"
+    console.log(language)
 
-console.log(language, typeof language)
+    language = true
+    console.log(language)
+
+    language = 3.14
+    console.log(language)
+
+    let adet
+    console.log(adet) 
+    adet = "23"
+    console.log(typeof adet)
+
+    {
+        let localDegisken = 5
+        localDegisken = localDegisken + 1
+        console.log(localDegisken)
+    }
+
+        // console.log(localDegisken)
