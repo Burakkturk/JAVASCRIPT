@@ -25,3 +25,12 @@ console.log("APP JS RUNNING")
 
     // const number1 = 5
     // number1 = 7
+   
+
+    const varMi = true
+    const isOpen = false
+    console.log(isOpen, typeof isOpen)
+
+    let language = "Java"
+
+console.log(language, typeof language)
